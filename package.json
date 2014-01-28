@@ -1,0 +1,9 @@
+{
+  "name": "dns_saver",
+  "title": "DNS Saver",
+  "id": "jid1-wQ8H1pjNOn6s2A",
+  "description": "Save DNS for visited hosts.",
+  "author": "Xuan Wu",
+  "license": "LGPL 2.1",
+  "version": "0.3"
+}
